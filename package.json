@@ -1,0 +1,20 @@
+{
+  "name": "typist-react",
+  "version": "1.0.0",
+  "description": "A React Component that makes a cool typing effect",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.13.1",
+    "styled-components": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Maike Negreiros",
+    "email": "maike.anegreiros@gmail.com",
+    "url": "https://github.com/maikenegreiros"
+  },
+  "license": "ISC"
+}
