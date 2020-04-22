@@ -38,4 +38,4 @@ function MyComponent() {
 }
 ```
 
-![Typist Example: A text being typed in the screen](https://raw.githubusercontent.com/maikenegreiros/typist-react/master/static/typist-example.gif)
+![Typist Example: A text being typed in the screen](https://raw.githubusercontent.com/maikenegreiros/typist-react/master/public/images/typist-example.gif)
