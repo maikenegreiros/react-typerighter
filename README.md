@@ -8,15 +8,32 @@ Typist react is very simple to use
 
 ### Props
 
+Only one of the props is required, the rest of them is optional
+
 1. **text**: _string_ | _required_
 2. **color**: _string_
-3. **blinkTime**: _number_
-4. **typingTime**: _number_
+3. **fontSize**: _string_
+4. **fontFamily**: _string_
+5. **blinkTime**: _number_
+6. **typingTime**: _number_
 
 ### Example
+
+Here is an example using all the props
 
 ```js
 import Typist from "typist-react";
 
-<Typist text="My Awesome text" color="purple" blinkTime={1} typingTime={4} />;
+function MyComponent() {
+  return (
+    <Typist
+      text="My Awesome text"
+      color="#ffffff"
+      fontSize="2.5em"
+      fontFamily="monospace"
+      blinkTime={1}
+      typingTime={4}
+    />
+  );
+}
 ```
