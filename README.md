@@ -39,3 +39,13 @@ function MyComponent() {
 ```
 
 ![Typist Example: A text being typed in the screen](https://raw.githubusercontent.com/maikenegreiros/typist-react/master/public/images/typist-example.gif)
+
+## Development
+
+If you want to contribute to this project, you have to compile the project in development mode:
+
+```bash
+npm run dev
+```
+
+By running the previous command, webpack will compile code in develpment mode and will watch the files changes
