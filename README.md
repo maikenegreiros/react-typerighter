@@ -1,10 +1,10 @@
-# typist-react
+# react-typerighter
 
 A React Component that makes a cool typing effect
 
 ## Usage
 
-Typist react is very simple to use
+React TypeRighter is very simple to use
 
 ### Props
 
@@ -22,11 +22,11 @@ Only one of the props is required, the rest of them is optional
 Here is an example using all the props
 
 ```js
-import Typist from "typist-react";
+import TypeRighter from "react-typerighter";
 
 function MyComponent() {
   return (
-    <Typist
+    <TypeRighter
       text="My Awesome text"
       color="#ffffff"
       fontSize="2.5em"
@@ -38,7 +38,7 @@ function MyComponent() {
 }
 ```
 
-![Typist Example: A text being typed in the screen](https://raw.githubusercontent.com/maikenegreiros/typist-react/master/public/images/typist-example.gif)
+![TypeRighter Example: A text being typed in the screen](https://raw.githubusercontent.com/maikenegreiros/react-typerighter/master/public/images/typist-example.gif)
 
 ## Development
 
